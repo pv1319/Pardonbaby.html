@@ -1,0 +1,60 @@
+*{
+    background-color: rgb(243, 215, 224);
+}
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: purple;
+    margin: 5px 5px 5px 5px;
+    text-decoration:underline;
+    
+}
+.mansi {
+    border: 2px solid purple;
+    margin-bottom: 5px;
+
+}
+div {
+    margin: 5px 5px 5px 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:120%;
+}
+.para2 {
+    margin: 5px 5px 5px 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:120%;
+}
+.para3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px 5px 5px 5px;
+    font-size:120%;
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: purple;
+}
+a:hover {
+    color: rgb(228, 59, 191);
+}
+.para4 {
+    margin: 5px 5px 5px 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:120%;
+}
+.hover {
+    font-size: 150%;
+}
+.para5 {
+    margin: 5px 5px 5px 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:120%;
+}
+nav {
+    margin-top: 20px;
+    color: rgb(228, 59, 191);
+    background-color: plum;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:120%;
+    border: 2px purple;
+    text-decoration: line-through;
+    font-weight: bold;
+}
